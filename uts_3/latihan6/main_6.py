@@ -1,4 +1,4 @@
-from pajak_utlis import parse_daftar_harga, hitung_total_belanja, hitung_pajak
+from utliss_6 import parse_daftar_harga, hitung_total_belanja, hitung_pajak
 
 data_harga = input("Masukkan daftar harga barang : ")
 daftar_harga = parse_daftar_harga(data_harga)

@@ -1,4 +1,4 @@
-from diskon_utlis import parse_daftar_harga, hitung_total_belanja, hitung_potongan_diskon
+from utlis_4 import *
 
 data_harga = input("Masukkan daftar harga barang : ")
 daftar_harga = parse_daftar_harga(data_harga)

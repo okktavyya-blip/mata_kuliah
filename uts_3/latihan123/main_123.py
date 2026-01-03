@@ -1,4 +1,4 @@
-from utlis import cari_nilai_terbesar, cari_nilai_terkecil, parse_list, hitung_total_penjumlahan, nilai_kelulusan, cek_kelulusan
+from utlis_123 import cari_nilai_terbesar, cari_nilai_terkecil, parse_list, hitung_total_penjumlahan, nilai_kelulusan, cek_kelulusan
 
 data = input("Masukkan data: ")
 
